@@ -22,3 +22,35 @@ Breakout Ball is a classic arcade game implemented in Java using Swing. The obje
 1. **Clone the repository**:
 
    git clone https://github.com/akkileshkumard/Breakout-Ball-Game-Java.git
+   
+2. **Navigate to the project directory:**
+
+   cd breakout-ball
+
+3. **Compile and run the game:**
+
+   javac Main.java
+   java Main
+
+
+## Controls
+
+- **Left Arrow**: Move paddle left.
+- **Right Arrow**: Move paddle right.
+- **Enter**: Start or restart the game.
+
+## Requirements
+
+- Java Development Kit (JDK) 8 or higher.
+
+## Future Enhancements
+
+- Implement levels with increasing difficulty.
+- Add power-ups and bonus bricks.
+- Improve graphics and animation.
+- Integrate online leaderboard.
+
+## Contributing
+
+Contributions are welcome! Fork the repository and create a pull request with your enhancements.
+
