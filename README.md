@@ -1,6 +1,6 @@
 # Breakout Ball Game
 
-![Gameplay Screenshot](Gameplay Screenshot.png)
+![Gameplay Screenshot]((https://github.com/akkileshkumard/Breakout-Ball-Game-Java/blob/41342d6a5189d7eb40bb7a55811642612f8964b8/Gameplay%20Screenshot.png))
 
 ## Description
 
