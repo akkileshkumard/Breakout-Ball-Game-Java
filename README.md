@@ -1,6 +1,6 @@
 # Breakout Ball Game
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](Gameplay Screenshot.png)
 
 ## Description
 
